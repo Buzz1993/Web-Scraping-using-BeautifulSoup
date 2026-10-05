@@ -1,0 +1,10 @@
+to learn this how I made this project then watch this videos:
+https://www.youtube.com/watch?v=_eZA-dSwtTs  
+https://www.youtube.com/watch?v=df_VkbIYIZg
+
+
+while scrarping data imp things ,all this shown in my 7.Billboard project
+1).get_text(strip=True)
+2)try, except
+3)commenting 
+4)those col you want to take in dict make them as '_t' 
