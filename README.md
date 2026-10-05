@@ -264,15 +264,17 @@ To scrape movie reviews along with movie details, ratings, and cast information.
 
 **Data Collected:**
 
-`link` : Movie review page link  
-`movie_name` : Name of the movie  
-`movie_name_try2` : Alternative movie name  
-`about_movie` : Short information about the movie  
-`review_by` : Name of the reviewer  
-`review` : Full movie review  
-`review_summary` : Review summary or verdict  
-`cast` : Cast members  
-`rating_out5` : Movie rating out of 5
+| Column | Description |
+|---|---|
+| `link` | Movie review page link |
+| `movie_name` | Name of the movie |
+| `movie_name_try2` | Alternative movie name |
+| `about_movie` | Short information about the movie |
+| `review_by` | Name of the reviewer |
+| `review` | Full movie review |
+| `review_summary` | Review summary or verdict |
+| `cast` | Cast members |
+| `rating_out5` | Movie rating out of 5 |
 
 **Output:**  
 `movie_reviews_empire.csv`
@@ -304,12 +306,14 @@ To scrape song and chart information from the Billboard India Songs chart.
 
 **Data Collected:**
 
-`song_name` : Name of the song  
-`artist_name` : Name of the artist  
-`last_week_trending` : Song's rank in the previous week  
-`highest_position_reached` : Highest position reached by the song  
-`weeks_appeard` : Number of weeks the song appeared on the chart  
-`weeks_number1` : Number of weeks the song was at number 1  
+| Column | Description |
+|---|---|
+| `song_name` | Name of the song |
+| `artist_name` | Name of the artist |
+| `last_week_trending` | Song's rank in the previous week |
+| `highest_position_reached` | Highest position reached by the song |
+| `weeks_appeard` | Number of weeks the song appeared on the chart |
+| `weeks_number1` | Number of weeks the song was at number 1 |
 
 **Output:**  
 `billboard_music.csv`
@@ -346,16 +350,18 @@ To scrape men's shirt product information such as name, price, fabric, pattern, 
 
 **Data Collected:**
 
-`items_link` : Product page link  
-`prod_name` : Product name  
-`prod_price` : Product price  
-`prod_fabric` : Fabric of the shirt  
-`prod_neck` : Neck type  
-`prod_pattern` : Pattern of the shirt  
-`prod_sleeve` : Sleeve type  
-`prod_fit` : Fit of the shirt  
-`prod_style` : Style of the shirt  
-`prod_rating` : Product rating  
+| Column | Description |
+|---|---|
+| `items_link` | Product page link |
+| `prod_name` | Product name |
+| `prod_price` | Product price |
+| `prod_fabric` | Fabric of the shirt |
+| `prod_neck` | Neck type |
+| `prod_pattern` | Pattern of the shirt |
+| `prod_sleeve` | Sleeve type |
+| `prod_fit` | Fit of the shirt |
+| `prod_style` | Style of the shirt |
+| `prod_rating` | Product rating |
 
 **Output:**  
 `beyoung_data.csv`
@@ -396,27 +402,27 @@ To scrape Indian chicken recipes along with recipe details, cooking time, ingred
 
 **Data Collected:**
 
-`link` : Recipe page link  
-`recipe_name` : Name of the recipe  
-`rating_out5` : Recipe rating out of 5  
-`chef_name` : Name of the chef or recipe contributor  
-`prep_time` : Preparation time  
-`cook_time` : Cooking time  
-`stand_time` : Standing time  
-`marinate_time` : Marinating time  
-`total_time` : Total time required  
-`additional_time` : Additional time  
-`servings` : Number of servings  
-`ingredients_list` : Ingredients required for the recipe  
-`direction` : Steps to prepare the recipe  
-`nutrition_list` : Nutrition information  
+| Column | Description |
+|---|---|
+| `link` | Recipe page link |
+| `recipe_name` | Name of the recipe |
+| `rating_out5` | Recipe rating out of 5 |
+| `chef_name` | Name of the chef or recipe contributor |
+| `prep_time` | Preparation time |
+| `cook_time` | Cooking time |
+| `stand_time` | Standing time |
+| `marinate_time` | Marinating time |
+| `total_time` | Total time required |
+| `additional_time` | Additional time |
+| `servings` | Number of servings |
+| `ingredients_list` | Ingredients required for the recipe |
+| `direction` | Steps to prepare the recipe |
+| `nutrition_list` | Nutrition information |
 
 **Output:**  
 `allrecipes.csv`
 
 ...
-
-## ⬆️ END OF 9 WEBSITE DETAILS ⬆️
 
 ---
 
