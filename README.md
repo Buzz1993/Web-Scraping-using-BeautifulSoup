@@ -531,6 +531,7 @@ jupyter notebook
 After starting Jupyter Notebook, open any of the 9 project folders and run the notebook for that particular website.
 
 Each website has its own folder containing its scraping notebook and output CSV file.
+```
 
 ---
 
