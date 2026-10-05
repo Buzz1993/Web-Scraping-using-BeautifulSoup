@@ -485,7 +485,6 @@ from bs4 import BeautifulSoup
 import re
 ```
 
-```markdown
 For the Allrecipes project, the following Python modules were also used:
 
 ```python
@@ -527,11 +526,9 @@ pip install jupyter
 jupyter notebook
 ```
 
-```markdown
 After starting Jupyter Notebook, open any of the 9 project folders and run the notebook for that particular website.
 
 Each website has its own folder containing its scraping notebook and output CSV file.
-```
 
 ---
 
