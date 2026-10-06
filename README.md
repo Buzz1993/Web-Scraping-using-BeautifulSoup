@@ -571,6 +571,7 @@ Through this project, I learned how to:
 
 ## 🔮 Future Improvements
 
+- cleaning the data
 - Perform **Exploratory Data Analysis (EDA)** on the collected data
 - Build dashboards using the scraped datasets
 - Improve error handling for different website responses
